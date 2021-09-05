@@ -1,1 +1,1 @@
-# gesturetinyml
+# Gesture Recognition on Microcontroller with TinyML
