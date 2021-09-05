@@ -10,4 +10,7 @@ A well-known possibility is to use camera sensors combined with machine learning
 
 Let's meet the challenge with this project.
 
+### Sample Code for Codecraft block based
+![samplecode](/image.png)
+
 More details on the project available on Hackster: 
