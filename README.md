@@ -11,6 +11,6 @@ A well-known possibility is to use camera sensors combined with machine learning
 Let's meet the challenge with this project.
 
 ### Sample Code for Codecraft block based
-![samplecode](/image.png)
+![samplecode](/image.PNG)
 
-More details on the project available on Hackster: 
+More details on the project available on Hackster: https://www.hackster.io/vincekok/gesture-recognition-on-microcontroller-with-tinyml-72a124
